@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Trung Nguyen
-- 👀 I’m interested in wireless communication, IoT and Software Defined Radio specifically.
-- 🌱 I’m currently learning GNU Radio, RedHawkSDR and practice programming with Python, C++.
-- 💞️ I’m looking to collaborate on anything open.
-- 📫 How to reach me ctn008ca@gmail.com
+# 👋 Hi, I'm ctn008
 
-<!---
-ctn008/ctn008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🎓 MSEE Student at SJSU (focus on Wireless Communications, Signal Processing)  
+📡 RF Engineer with 20+ years experiences, designing and optimizing mission-critical wireless systems  
+🛠️ Building SDR projects with GNU Radio, Python, and C++  
+
+---
+
+## 🔗 Featured Projects
+- [TETRA Receiver (RTL-SDR)](https://github.com/ctn008/tetra-receiver)  
+- [TETRA Transmitter (PlutoSDR)](https://github.com/yourusername/tetra-transmitter)  
+- [Low-Cost RF Survey Tool (RTL-SDR + GPS)](https://github.com/yourusername/rf-survey-tool)  
+
+---
+
+## 📌 Interests
+- RF & Wireless Systems  
+- Software Defined Radio (SDR)  
+- IoT and Next-Gen Communications  
+- RF Test & Measurement, Remote Sensing  
