@@ -8,8 +8,8 @@
 
 ## 🔗 Featured Projects
 - [TETRA Receiver (RTL-SDR)](https://github.com/ctn008/tetra-receiver)  
-- [TETRA Transmitter (PlutoSDR)](https://github.com/yourusername/tetra-transmitter)  
-- [Low-Cost RF Survey Tool (RTL-SDR + GPS)](https://github.com/yourusername/rf-survey-tool)  
+- [TETRA Transmitter (PlutoSDR)](https://github.com/ctn008/tetra-transmitter)  
+- [Low-Cost RF Survey Tool (RTL-SDR + GPS)](https://github.com/ctn008/rf_surveytool)  
 
 ---
 
