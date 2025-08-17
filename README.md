@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Truman Nguyen
-- 👀 I’m interested in IoT in general and Software Defined Radio specifically.
+- 👋 Hi, I’m Trung Nguyen
+- 👀 I’m interested in wireless communication, IoT and Software Defined Radio specifically.
 - 🌱 I’m currently learning GNU Radio, RedHawkSDR and practice programming with Python, C++.
 - 💞️ I’m looking to collaborate on anything open.
 - 📫 How to reach me ctn008ca@gmail.com
