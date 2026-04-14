@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ctn008
 
-🎓 MSQT Student at SJSU  
+🎓 MSEE Student at SJSU  
 📡 RF professional with 20+ years experiences, designing and optimizing mission-critical wireless systems  
 🛠️ Building SDR projects with GNU Radio, Python, and C++  
 
