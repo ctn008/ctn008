@@ -2,7 +2,7 @@
 
 🎓 MSEE Student at SJSU  
 📡 RF professional with extensive experiences in field deployment and optimization of mission-critical wireless systems  
-🛠️ Building SDR projects with GNU Radio, Python, and C++
+🛠️ Building SDR projects with GNU Radio, Python, and C++   
 🛠️ Quantum Algorithm Simulation and Programming: Shor Algorithm simulation and implementation on IBM Quantum hardware using Qiskit
 
 ---
@@ -16,6 +16,6 @@
 ---
 
 ## 📌 Interests
-- RF & Wireless Systems, Software Defined Radio (SDR)
-- DSP, Optical Communication and Photonics 
+- RF & Wireless Systems, Software Defined Radio (SDR)  
+- DSP, Coherent Optical Communication and Photonics   
 - Quantum Spin Qubit Simulation & Quantum Programming  
